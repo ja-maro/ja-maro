@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ja-maro
+- 👋 Hi, I’m Jean-Antoine MARO
 - 👀 I’m interested in web development with java and typescript, CICD and application monitoring
 - 🌱 I’m currently learning DevOps as an internship for a master's degree.
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/jean-antoine-maro)
